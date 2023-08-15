@@ -1,0 +1,12 @@
+.order-form {
+  width: 1180px;
+  margin: 0 auto;
+  &__wrapper {
+    height: 448px;
+    background: linear-gradient(
+      128deg,
+      #2c7cf1 0%,
+      rgba(0, 209, 255, 0.5) 100%
+    );
+  }
+}

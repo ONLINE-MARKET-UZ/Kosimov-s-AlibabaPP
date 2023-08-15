@@ -1,9 +1,10 @@
-import "./index.scss";
+import OrderForm from '../OrderForm'
+
 
 const index = () => {
   return (
     <section>
-      <h1>layout</h1>
+      <OrderForm/>
     </section>
   );
 };
